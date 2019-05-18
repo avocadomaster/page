@@ -1,0 +1,10 @@
+# Site settings
+title: Sebastian Stiernborg - That is my name...
+description: I'm Sebastian Stiernborg a software engineer from Stockholm, Sweden.
+url: "http://sebastian.stiernborg.me"
+
+# User settings
+username: SEBASTIAN STIERNBORG
+user_title: Software Engineer | Stockholm
+user_description: If your here and for some reason would like to know what I like to do. Then I can tell you I enjoy hiking mountains, building software and diving into problems.
+exclude: ['package.json', 'src' , 'node_modules']
